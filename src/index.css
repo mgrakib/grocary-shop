@@ -10,7 +10,7 @@
 
 
 .page_container {
-    @apply px-[100px] 
+    @apply md:px-[120px]  px-[20px]
 }
 
 .text-blck-hover {
