@@ -3,6 +3,11 @@ import { FaEnvelope, FaFacebookSquare, FaInstagram, FaPhone, FaPinterest, FaTwit
 import { Link } from 'react-router-dom';
 
 const TopCommunication = () => {
+
+	const user ='MGR'
+
+
+
     return (
 		<div className='bg-[#89C74A] page_container py-2 text-[14px]  sm:flex items-center gap-3 text-white hidden mx-auto'>
 			{/* mail */}

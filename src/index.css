@@ -16,3 +16,7 @@
 .text-blck-hover {
     @apply hover:text-black duration-300
 }
+
+.btn-hover-effect {
+    @apply hover:bg-[#FF6600] duration-700 hover:text-white
+}
